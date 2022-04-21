@@ -1,5 +1,3 @@
-# projetoCampoMinadoCerto
-
 <h1>Jogo Campo Minado<h1>
   
 <h2>Tecnologias<h2>
